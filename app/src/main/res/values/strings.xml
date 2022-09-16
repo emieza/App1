@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App1</string>
+
+
+    <string-array name="valors">
+        <item>Array Item One</item>
+        <item>Array Item Two</item>
+        <item>Array Item Three</item>
+    </string-array>
+
+</resources>
